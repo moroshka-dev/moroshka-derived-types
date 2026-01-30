@@ -1,0 +1,24 @@
+{
+  "summary": {
+    "generatedon": "2026-01-30T14:03:11Z",
+    "parser": "MultiReportParser (2x OpenCoverParser)",
+    "assemblies": 1,
+    "classes": 1,
+    "files": 1,
+    "coveredlines": 17,
+    "uncoveredlines": 0,
+    "coverablelines": 17,
+    "totallines": 63,
+    "linecoverage": 100,
+    "coveredbranches": 0,
+    "totalbranches": 0,
+    "coveredmethods": 5,
+    "totalmethods": 5,
+    "methodcoverage": 100
+ },
+  "coverage": {
+    "assemblies": [
+      { "name": "Moroshka.DerivedTypes", "classes": 1, "coverage": 100, "coveredlines": 17, "coverablelines": 17, "totallines": 63, "branchcoverage": null, "coveredbranches": 0, "totalbranches": 0, "methodcoverage": 100, "coveredmethods": 5, "totalmethods": 5, "classesinassembly": [
+        { "name": "Moroshka.DerivedTypes.DerivedType", "coverage": 100, "coveredlines": 17, "coverablelines": 17, "totallines": 63, "branchcoverage": null, "coveredbranches": 0, "totalbranches": 0, "methodcoverage": 100, "coveredmethods": 5, "totalmethods": 5 } ] } ]
+  }
+}

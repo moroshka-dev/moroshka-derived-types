@@ -1,0 +1,14 @@
+{
+  "name": "Moroshka.DerivedTypes",
+  "rootNamespace": "Moroshka.DerivedTypes",
+  "references": [],
+  "includePlatforms": [],
+  "excludePlatforms": [],
+  "allowUnsafeCode": false,
+  "overrideReferences": false,
+  "precompiledReferences": [],
+  "autoReferenced": true,
+  "defineConstraints": [],
+  "versionDefines": [],
+  "noEngineReferences": false
+}

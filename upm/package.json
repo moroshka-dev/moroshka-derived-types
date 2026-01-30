@@ -1,0 +1,21 @@
+{
+  "name": "com.moroshka.derived-types",
+  "displayName": "Moroshka.DerivedTypes",
+  "version": "1.0.0",
+  "description": "Derived Types allows serialization of System.Type for the Unity inspector. It appears as a dropdown list in the Unity inspector. The list contains an enumeration of types inherited from the specified base type, while excluding the current file from the list.",
+  "unity": "6000.2",
+  "unityRelease": "0f1",
+  "author": {
+    "name": "Moroshka",
+    "email": "epishev.m@mail.ru"
+  },
+  "license": "MIT",
+  "dependencies": {},
+  "samples": [
+    {
+      "displayName": "DerivedTypes",
+      "description": "Contains sample of using DerivedTypes.",
+      "path": "Samples~/DerivedTypes"
+    }
+  ]
+}
